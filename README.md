@@ -26,45 +26,49 @@ A collection of my favorite tools and languages, brought to life with animated S
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub & Wakatime Stats  
 Track my coding journey with these sleek, animated stats!  
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadraza76&show_icons=true&theme=dracula&hide_border=true&count_private=true " alt="Ahmad's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadraza76&theme=dracula&hide_border=true " alt="GitHub Streak">
+
+  <!-- Wakatime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadraza76&theme=dracula&langs_count=8&layout=compact " alt="Wakatime Stats">
 </div>
+
+*Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats ) and [Wakatime](https://wakatime.com/ ).*
 
 ---
 
 ## ✨ Featured Projects  
-Here are some of my favorite creations, enhanced with SVG icons:  
-
-### 🚀 Project Name  
-A responsive portfolio site with animated SVGs.  
-🛠️ **Tech Stack**: React, Tailwind CSS, Lottie Animations  
-🔗 [Live Demo](#) | [Repo](#)  
-<img src="https://img.icons8.com/?size=100&id=108639&format=png&color=000000 " width="40" alt="Project Icon">
-
-### 🌐 Real-Time Chat App  
-A real-time chat app with micro-interactions.  
-🛠️ **Tech Stack**: Node.js, Socket.io, Framer Motion  
-🔗 [Live Demo](#) | [Repo](#)  
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000 " width="40" alt="Project Icon">
+Here are some of my favorite creations, enhanced with SVG icons and subtle animations:  
+- **[Project Name]**  
+  🚀 A [brief description, e.g., responsive portfolio site with animated SVGs].  
+  🛠️ **Tech Stack**: React, Tailwind CSS, Lottie Animations  
+  🔗 [Live Demo](#) | [Repo](#)  
+  <img src="https://img.icons8.com/?size=100&id=108639&format=png&color=000000 " alt="Project Icon" style="width: 40px; transition: transform 0.3s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'">
+- **[Project Name]**  
+  🌐 A [brief description, e.g., real-time chat app with micro-interactions].  
+  🛠️ **Tech Stack**: Node.js, Socket.io, Framer Motion  
+  🔗 [Live Demo](#) | [Repo](#)  
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000 " alt="Project Icon" style="width: 40px; transition: transform 0.3s;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'">
+*Use [Icons8](https://icons8.com/ ) or [Flaticon](https://www.flaticon.com/ ) for SVG icons with hover effects.*
 
 ---
 
 ## 📫 Connect With Me  
-Let's collaborate or chat about tech! Reach me through these links:  
-
+Let's collaborate or chat about tech! Reach me through these animated links:  
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000 " width="40" alt="Email">
+    <img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000 " alt="Email" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://linkedin.com/in/yourprofile ">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000 " width="40" alt="LinkedIn">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000 " alt="LinkedIn" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://your-portfolio-link.com ">
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000 " width="40" alt="Portfolio">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000 " alt="Portfolio" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
 
@@ -81,6 +85,7 @@ Explore my repositories, star ⭐ your favorites, or drop me a message to collab
 ---
 
 ### Notes  
-- Replace placeholders like `your-email@example.com`, `ahmadraza76`, and project details with your actual info.
-- Make sure your image is uploaded in the root folder or correct path of your repo.
+- Replace placeholders (e.g., `your-email@example.com`, `ahmadraza76`, project details) with your actual information.
+- Host custom SVGs or Lottie animations on your GitHub repo or a CDN for faster loading.
 - Test the README on GitHub to ensure all animations and links work as expected.
+- For a live portfolio, integrate these animations using React, Tailwind CSS, or Framer Motion to showcase your skills further.
