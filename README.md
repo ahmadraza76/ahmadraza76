@@ -37,24 +37,24 @@ Track my coding journey with these sleek, animated stats!
 ---
 
 ## ✨ Featured Projects  
-Here are some of my favorite creations, enhanced with SVG icons and subtle animations:  
+Here are some of my favorite creations, enhanced with SVG icons:  
 
 ### 🚀 Project Name  
 A responsive portfolio site with animated SVGs.  
 🛠️ **Tech Stack**: React, Tailwind CSS, Lottie Animations  
-🔗 [Live Demo](https://example.com ) | [Repo](https://github.com/ahmadraza76/project-name )  
+🔗 [Live Demo](#) | [Repo](#)  
 <img src="https://img.icons8.com/?size=100&id=108639&format=png&color=000000 " width="40" alt="Project Icon">
 
 ### 🌐 Real-Time Chat App  
 A real-time chat app with micro-interactions.  
 🛠️ **Tech Stack**: Node.js, Socket.io, Framer Motion  
-🔗 [Live Demo](https://example.com ) | [Repo](https://github.com/ahmadraza76/chat-app )  
+🔗 [Live Demo](#) | [Repo](#)  
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000 " width="40" alt="Project Icon">
 
 ---
 
 ## 📫 Connect With Me  
-Let's collaborate or chat about tech! Reach me through these animated links:  
+Let's collaborate or chat about tech! Reach me through these links:  
 
 <div align="center">
   <a href="mailto:your-email@example.com">
